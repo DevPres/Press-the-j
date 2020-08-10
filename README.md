@@ -6,10 +6,10 @@ My name is Dario, from Rome. I'm a jr Full Stack Web Developer :walking:. I love
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dario-presutti-771643b8/" target="_blank" display="inline-block">
-    <img src="./images/linkedin.png" alt="Linkedin" width="50" height="50"/>
+    <img src="https://github.com/Press-the-j/Press-the-j/blob/master/images/linkedin.png" alt="Linkedin" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/Dario_WD_coding" target="_blank" display="inline-block">
-    <img src="./images/twitter.png" alt="Twitter" />
+    <img src="https://github.com/Press-the-j/Press-the-j/blob/master/images/twitter.png" alt="Twitter" />
   </a>
 </div>
                                               
