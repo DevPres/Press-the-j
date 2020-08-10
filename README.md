@@ -5,11 +5,14 @@
 My name is Dario, from Rome. I'm a jr Full Stack Web Developer :walking:. I love the Open source community and philosphy :dancers:. i'm motivated to bring my goals, and i love worg in team! when i shut down my pc, i only want discover world and new book :green_book: and pet my puppies :dog: :cat:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dario-presutti-771643b8/" target="_blank" margin-right="15">
+  <a href="https://www.linkedin.com/in/dario-presutti-771643b8/" target="_blank" >
     <img src="https://github.com/Press-the-j/Press-the-j/blob/master/images/linkedin.png" alt="Linkedin" width="50" height="50"/>
   </a>
   <a href="https://twitter.com/Dario_WD_coding" target="_blank" display="inline-block">
-    <img src="https://github.com/Press-the-j/Press-the-j/blob/master/images/twitter.png" alt="Twitter" margin-right="15" />
+    <img src="https://github.com/Press-the-j/Press-the-j/blob/master/images/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://codepen.io/press-the-j" display="inline-block">
+    <img src="https://github.com/Press-the-j/Press-the-j/blob/master/images/codepen.png" alt="CodePen" width="50" height="50" />
   </a>
 </div>
                                               
