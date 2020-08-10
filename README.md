@@ -2,8 +2,11 @@
 
 
 
-My name is Dario, from Rome. I'm a jr Full Stack Web Developer :walking:. I love the Open source community and philosphy :dancers:, and i'm studying every day to contribute, and I’ll sleep only when my first star appear  :stars: 
-                                              ![Twitter](./images/twitter.png)
+My name is Dario, from Rome. I'm a jr Full Stack Web Developer :walking:. I love the Open source community and philosphy :dancers:. i'm motivated to bring my goals, and i love worg in team! when i shut down my pc, i only want discover world and new book :green_book: and pet my puppies :dog: :cat:
+                                              <a href="https://twitter.com/Dario_WD_coding
+                                                        " target="_blank"><img src="./images/twitter.png" 
+                                               alt="Twitter"/></a>
+                                              
                                               
                                               
  <!--
