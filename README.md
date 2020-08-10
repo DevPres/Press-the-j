@@ -4,9 +4,7 @@
 **Press-the-j/Press-the-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My name is Dario, from Rome. I'm a jr Full Stack Web Developer :walking:. I love the Open source community and philosphy :dancers:, and i'm studying every day to contribute, and I’ll sleep only when my first star appear  :stars: 
-                                              [![Twitter](https://github.com/Press-the-j/readme_image/blob/master/twitter.png)(https://twitter.com/Dario_WD_coding)
-
-## 
+                                              ![Twitter](https://github.com/Press-the-j/readme_image/blob/master/twitter.png)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
